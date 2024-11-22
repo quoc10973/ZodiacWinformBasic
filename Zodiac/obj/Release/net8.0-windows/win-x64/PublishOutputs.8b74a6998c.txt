@@ -1,0 +1,8 @@
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\Zodiac.pdb
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\D3DCompiler_47_cor3.dll
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\PenImc_cor3.dll
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\PresentationNative_cor3.dll
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\vcruntime140_cor3.dll
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\wpfgfx_cor3.dll
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\Services.pdb
+D:\PRN211\Faithful\Zodiac\bin\Release\net8.0-windows\win-x64\publish\win-x64\Zodiac.exe

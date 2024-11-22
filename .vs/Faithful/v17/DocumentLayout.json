@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN211\\Faithful\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD0EB65-0571-4068-BC92-46B1D058F4B5}|Zodiac\\Zodiac.csproj|d:\\prn211\\faithful\\zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACD0EB65-0571-4068-BC92-46B1D058F4B5}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD0EB65-0571-4068-BC92-46B1D058F4B5}|Zodiac\\Zodiac.csproj|d:\\prn211\\faithful\\zodiac\\zodiacmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD0EB65-0571-4068-BC92-46B1D058F4B5}|Zodiac\\Zodiac.csproj|solutionrelative:zodiac\\zodiacmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D313526-027F-4694-87E5-6E1CEF3E8D61}|Services\\Services.csproj|d:\\prn211\\faithful\\services\\idolzodiaccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D313526-027F-4694-87E5-6E1CEF3E8D61}|Services\\Services.csproj|solutionrelative:services\\idolzodiaccalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZodiacManager.cs [Design]",
+              "DocumentMoniker": "D:\\PRN211\\Faithful\\Zodiac\\ZodiacManager.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.cs",
+              "ToolTip": "D:\\PRN211\\Faithful\\Zodiac\\ZodiacManager.cs [Design]",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:02:31.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZodiacManager.Designer.cs",
+              "DocumentMoniker": "D:\\PRN211\\Faithful\\Zodiac\\ZodiacManager.Designer.cs",
+              "RelativeDocumentMoniker": "Zodiac\\ZodiacManager.Designer.cs",
+              "ToolTip": "D:\\PRN211\\Faithful\\Zodiac\\ZodiacManager.Designer.cs",
+              "RelativeToolTip": "Zodiac\\ZodiacManager.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:02:21.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdolZodiacCalculator.cs",
+              "DocumentMoniker": "D:\\PRN211\\Faithful\\Services\\IdolZodiacCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\IdolZodiacCalculator.cs",
+              "ToolTip": "D:\\PRN211\\Faithful\\Services\\IdolZodiacCalculator.cs",
+              "RelativeToolTip": "Services\\IdolZodiacCalculator.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:02:17.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

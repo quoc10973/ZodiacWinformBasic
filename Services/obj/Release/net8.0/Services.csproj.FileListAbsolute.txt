@@ -1,0 +1,11 @@
+D:\PRN211\Faithful\Services\bin\Release\net8.0\Services.deps.json
+D:\PRN211\Faithful\Services\bin\Release\net8.0\Services.dll
+D:\PRN211\Faithful\Services\bin\Release\net8.0\Services.pdb
+D:\PRN211\Faithful\Services\obj\Release\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Faithful\Services\obj\Release\net8.0\Services.AssemblyInfoInputs.cache
+D:\PRN211\Faithful\Services\obj\Release\net8.0\Services.AssemblyInfo.cs
+D:\PRN211\Faithful\Services\obj\Release\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\PRN211\Faithful\Services\obj\Release\net8.0\Services.dll
+D:\PRN211\Faithful\Services\obj\Release\net8.0\refint\Services.dll
+D:\PRN211\Faithful\Services\obj\Release\net8.0\Services.pdb
+D:\PRN211\Faithful\Services\obj\Release\net8.0\ref\Services.dll

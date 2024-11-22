@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDMb9n4k4eo=",
+  "success": true,
+  "projectFilePath": "D:\\PRN211\\Faithful\\Zodiac\\Zodiac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL'\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\DELL'\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\DELL'\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\DELL'\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
